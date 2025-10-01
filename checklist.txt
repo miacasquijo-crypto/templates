@@ -1,0 +1,16 @@
+# Django Project Environment Checklist
+
+1. Python Version:
+   [e.g., Python 3.11.4]
+   
+2. Virtual Environment (venv):
+   [Active/Yes - e.g., Confirmed by (venv) prefix in terminal]
+   
+3. Django Version:
+   [e.g., Django 5.0.4]
+   
+4. runserver Working:
+   [Yes - Successfully launched development server on http://127.0.0.1:8000/]
+   
+5. Git Remote Set:
+   [Yes - Remote origin confirmed via 'git remote -v']
